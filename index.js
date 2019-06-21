@@ -17,4 +17,3 @@ function johnLennonFacts(facts) {
   console.log(facts);
 }
 return johnLennonFacts
-learn
