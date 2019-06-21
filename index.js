@@ -21,9 +21,9 @@ return newArray;
 
 function iLoveTheBeatles(n){
 var anotherArray=[];
-do{
+do {
 n++;
 anotherArray.push("I love the Beatles!");
-}while (n < 15);
+} while (n < 15);
 return anotherArray;
 }
