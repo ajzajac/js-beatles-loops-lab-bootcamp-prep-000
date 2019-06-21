@@ -16,4 +16,4 @@ function johnLennonFacts(facts) {
   }
   console.log(facts);
 }
-johnLennonFacts(facts)
+return johnLennonFacts(facts)
