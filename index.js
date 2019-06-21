@@ -25,3 +25,4 @@ function iLoveTheBeatles(number){
  do { 
    anotherArray.push("I love the Beatles!");
  } while (n < 15)
+ n++;
