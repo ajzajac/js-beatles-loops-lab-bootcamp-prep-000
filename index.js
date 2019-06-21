@@ -19,6 +19,6 @@ i++;
 return newArray;
 }
 
-function iLoveTheBeatles(number)
+function iLoveTheBeatles(number){
  var anotherArray = [];
- 
+ do {
