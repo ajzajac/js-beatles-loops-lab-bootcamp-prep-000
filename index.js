@@ -20,10 +20,10 @@ return newArray;
 }
 
 function iLoveTheBeatles(n){
-var strings=[];
+var anotherArray=[];
 do{
 n++;
-strings.push("I love the Beatles!");
+anotherArray.push("I love the Beatles!");
 }while (n < 15);
-return strings;
+return anotherArray;
 }
